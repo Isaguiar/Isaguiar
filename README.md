@@ -1,17 +1,17 @@
 # Hi there, I'm Isabel Aguiar. 👋 
 
 
-### I've being a teacher for a long while and I'm taking the first steps in my career as a full stack web developer!!😉
+### I've been a teacher for a long while and I'm taking the first steps in my career as a full stack web developer!!😉
 
--  I've just launched my first academic projects.
--  I’m currently colaborating with my team mates at Henry in the creation of a platform to offer young learners online computing lessons. 😎
-- I’m looking foward to have oportunities to join new teams and get engaged in new projects.
+- I've just launched my first academic projects.
+- I’m currently colaborating with my team mates at Henry on the creation of a platform to offer young learners online computing lessons. 😎
+- I’m looking for oportunities to join new teams and get engaged in new projects.
 - Challenges involving logic make my heart beat faster. 💓 That's why I feel more confortable working in the back or with libraries like React and React in the front.
-- ⚡ Plans for 2022: explore a little more the world of Machine Learning.
+- ⚡ Plans for 2022: explore a little more data bases and the world of Machine Learning!
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]["www.linkedin.com/in/isabel-aguiar-dev"]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/isabel-aguiar-dev)
 
 
 <br />
@@ -29,7 +29,7 @@
 [<img align="left" alt="PostGresql" width="40px" src="https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.646c2934ab.svg" />]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Jira" width="60px" src="https://symbols.getvecta.com/stencil_85/32_jira.f5435acc23.svg" />]
+[<img align="left" alt="Jira" width="100px" src="https://symbols.getvecta.com/stencil_85/32_jira.f5435acc23.svg" />]
 
 <br />
 <br />
