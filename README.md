@@ -2,6 +2,7 @@
 
 
 ### I've been a teacher for a long while and I'm taking the first steps in my career as a full stack web developer!!😉
+ <br />
 
 - I've just launched my first academic projects.
 - I’m currently colaborating with my team mates at Henry on the creation of a platform to offer young learners online computing lessons. 😎
@@ -9,20 +10,25 @@
 - Challenges involving logic make my heart beat faster. 💓 That's why I feel more comfortable working in the back or with libraries like React and React in the front.
 - ⚡ Plans for 2022: explore a little more data bases and the world of Machine Learning!
 
+---
+---
+
 ### Learn more about me:
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/isabel-aguiar-dev)
 
+<br />
 <br />
 
 ### Connect with me:
 
 Yahoo:  aguiara73@yahoo.com.br
 
-<br />
+---
+---
 
 ### Languages and Tools:
-
+ <br />
 
 <img align="left" alt="Jira" width="100px" src="https://symbols.getvecta.com/stencil_85/32_jira.f5435acc23.svg" />
 <img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />
@@ -68,9 +74,9 @@ If you want to take a look at the results:
     
   ### _*Henry Kids*_
     <br />
+  ```
    Online computing lessons platform for young learners - in progress
     <br />
-    ```
    Currently applying: 
     <br />
     Javascript, HTML, CSS, NODE, SQL
