@@ -46,33 +46,41 @@ Yahoo:  aguiara73@yahoo.com.br
 ## 📕 Latest Projects 
 
 
-###Sabor y nutrición(https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-
+### _*Sabor y nutrición*_
+``
 This project was a chance to learn more about:
+<br />
  Javascript, HTML, CSS, NODE, SQL
-   Libraries/Frameworks
-    Front: React, Redux
-    Back: Express, Sequelize, PostGresql
-    Other tools: Git and Github
-    
+ <br />
+  - Libraries/Frameworks
+    - Front: React, Redux
+    - Back: Express, Sequelize, PostGresql
+    - Other tools: Git and Github
+ ```
+ ```
 If you want to take a look at the results:
-  Opne git bush and run "git clone "https://github.com/Isaguiar/PI-Food-main.git";
-  Run "cd api"  and after that run folder run "npm start";
-  Open git bush again and run "cd client";
-  And after that run "npm start".
-  
+   <br />
+  - Open git bush and run "git clone "https://github.com/Isaguiar/PI-Food-main.git";
+  - Run "cd api"  and after that run folder run "npm start";
+  - Open git bush again and run "cd client";
+  - And after that run "npm start".
+ ```
     
-  ###Henry Kids
-   
+  ### _*Henry Kids*_
+    <br />
    Online computing lessons platform for young learners - in progress
-   
-   Currently applying:
+    <br />
+    ```
+   Currently applying: 
+    <br />
     Javascript, HTML, CSS, NODE, SQL
-      Libraries/Frameworks
-        Front: React, Redux
-        Back: Express, Sequelize, PostGresql
-        Authentication: Firebase;
-        Other tools: Git, Github, Scrum/Jira
+    <br />
+      -Libraries/Frameworks
+        - Front: React, Redux
+        - Back: Express, Sequelize, PostGresql
+        - Authentication: Firebase;
+        - Other tools: Git, Github, Scrum/Jira
+   ```
         
       
       
