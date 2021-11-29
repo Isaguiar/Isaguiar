@@ -55,9 +55,9 @@ Yahoo:  aguiara73@yahoo.com.br
 ### _*Sabor y nutrición*_
 ```
 This project was a chance to learn more about:
-<br />
+
  Javascript, HTML, CSS, NODE, SQL
- <br />
+ 
   - Libraries/Frameworks
     - Front: React, Redux
     - Back: Express, Sequelize, PostGresql
@@ -65,7 +65,7 @@ This project was a chance to learn more about:
  ```
  ```
 If you want to take a look at the results:
-   <br />
+   
   - Open git bush and run "git clone "https://github.com/Isaguiar/PI-Food-main.git";
   - Run "cd api"  and after that run folder run "npm start";
   - Open git bush again and run "cd client";
@@ -76,11 +76,11 @@ If you want to take a look at the results:
     <br />
   ```
    Online computing lessons platform for young learners - in progress
-    <br />
+ 
    Currently applying: 
-    <br />
+    
     Javascript, HTML, CSS, NODE, SQL
-    <br />
+   
       -Libraries/Frameworks
         - Front: React, Redux
         - Back: Express, Sequelize, PostGresql
