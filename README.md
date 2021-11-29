@@ -11,12 +11,12 @@
 - ⚡ Plans for 2022: explore a little more data bases and the world of Machine Learning!
 
 <br/>
-<br/>
+
 
 ### Learn more about me:
 <br/>
 
-[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/isabel-aguiar-dev)
+[<img align="left" alt=" LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/isabel-aguiar-dev)
 
 <br />
 <br />
