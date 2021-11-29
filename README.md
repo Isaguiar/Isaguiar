@@ -69,7 +69,7 @@ If you want to take a look at the results:
 
  ```
   - Open git bush and run "git clone "https://github.com/Isaguiar/PI-Food-main.git";
-  - Run "cd api"  and after that run folder run "npm start";
+  - Run "cd api"  and after that run "npm start";
   - Open git bush again and run "cd client";
   - And after that run "npm start".
  ```
