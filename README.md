@@ -5,23 +5,24 @@
 
 - I've just launched my first academic projects.
 - I’m currently colaborating with my team mates at Henry on the creation of a platform to offer young learners online computing lessons. 😎
-- I’m looking for oportunities to join new teams and get engaged in new projects.
-- Challenges involving logic make my heart beat faster. 💓 That's why I feel more confortable working in the back or with libraries like React and React in the front.
+- I’m open to oportunities to join new teams and keep on learning  by engaging in new projects.
+- Challenges involving logic make my heart beat faster. 💓 That's why I feel more comfortable working in the back or with libraries like React and React in the front.
 - ⚡ Plans for 2022: explore a little more data bases and the world of Machine Learning!
 
 ### Learn more about me:
 
-- [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/isabel-aguiar-dev)
-- 
+[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/isabel-aguiar-dev)
+
 <br />
 
 ### Connect with me:
 
-[Yahoo: ] [aguiara73@yahoo.com.br]
+Yahoo:  aguiara73@yahoo.com.br
 
 <br />
 
 ### Languages and Tools:
+
 
 <img align="left" alt="Jira" width="100px" src="https://symbols.getvecta.com/stencil_85/32_jira.f5435acc23.svg" />
 <img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />
@@ -40,30 +41,48 @@
 <br />
 
 ---
-
-
 ---
 
-### 📕 Latest Projects [Linkedin:][https://www.linkedin.com/in/isabel-aguiar-dev]
+## 📕 Latest Projects 
 
 
-- [Sabor y nutricion](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Henry Kids](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+###Sabor y nutrición(https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+
+This project was a chance to learn more about:
+ Javascript, HTML, CSS, NODE, SQL
+   Libraries/Frameworks
+    Front: React, Redux
+    Back: Express, Sequelize, PostGresql
+    Other tools: Git and Github
+    
+If you want to take a look at the results:
+  Opne git bush and run "git clone "https://github.com/Isaguiar/PI-Food-main.git";
+  Run "cd api"  and after that run folder run "npm start";
+  Open git bush again and run "cd client";
+  And after that run "npm start".
+  
+    
+  ###Henry Kids
+   
+   Online computing lessons platform for young learners - in progress
+   
+   Currently applying:
+    Javascript, HTML, CSS, NODE, SQL
+      Libraries/Frameworks
+        Front: React, Redux
+        Back: Express, Sequelize, PostGresql
+        Authentication: Firebase;
+        Other tools: Git, Github, Scrum/Jira
+        
+      
+      
+   
+ 
 
 
-➡️ [more blog posts...](https://codestackr.com)
 
-<!--
-**Isaguiar/Isaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
