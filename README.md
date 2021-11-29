@@ -1,7 +1,7 @@
-### Hi there, I'm Isabel Aguiar. 👋 
+# Hi there, I'm Isabel Aguiar. 👋 
 
 
-## I've being a teacher for a long while and I'm taking the first steps in my career as a full stack web developer!!😉
+### I've being a teacher for a long while and I'm taking the first steps in my career as a full stack web developer!!😉
 
 -  I've just launched my first academic projects.
 -  I’m currently colaborating with my team mates at Henry in the creation of a platform to offer young learners online computing lessons. 😎
@@ -21,9 +21,9 @@
 
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />][webdevplaylist]
+[<img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="PostGresql" width="40px" src="https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.646c2934ab.svg" />]
