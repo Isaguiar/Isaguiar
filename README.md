@@ -57,7 +57,7 @@ Yahoo:  aguiara73@yahoo.com.br
 
 <br/>
 
-<img align="left" alt="Sabor y nutricion" width="300px" src= "./public/foto app.png" />
+<img align="left" alt="Sabor y nutricion" width="5px" src= "./public/foto app.png" />
 <br/>
 
 
