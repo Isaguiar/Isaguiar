@@ -51,7 +51,7 @@ Yahoo:  aguiara73@yahoo.com.br
 ## 📕 Latest Projects 
 
 
-###_*Sabor y nutrición*_
+### _*Sabor y nutrición*_
 
 This project was a chance to learn more about:
 ```
@@ -72,7 +72,7 @@ If you want to take a look at the results:
   - And after that run "npm start".
  ```
     
-  ###_*Henry Kids*_
+  ### _*Henry Kids*_
     
 
    Online computing lessons platform for young learners - in progress
