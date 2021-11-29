@@ -10,9 +10,8 @@
 - Challenges involving logic make my heart beat faster. 💓 That's why I feel more comfortable working in the back or with libraries like React and React in the front.
 - ⚡ Plans for 2022: explore a little more data bases and the world of Machine Learning!
 
----
----
-
+<br/>
+<br/>
 ### Learn more about me:
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/isabel-aguiar-dev)
@@ -24,8 +23,8 @@
 
 Yahoo:  aguiara73@yahoo.com.br
 
----
----
+<br/>
+<br/>
 
 ### Languages and Tools:
  <br />
@@ -53,9 +52,9 @@ Yahoo:  aguiara73@yahoo.com.br
 
 
 ### _*Sabor y nutrición*_
-```
-This project was a chance to learn more about:
 
+This project was a chance to learn more about:
+```
  Javascript, HTML, CSS, NODE, SQL
  
   - Libraries/Frameworks
@@ -63,9 +62,9 @@ This project was a chance to learn more about:
     - Back: Express, Sequelize, PostGresql
     - Other tools: Git and Github
  ```
- ```
+
 If you want to take a look at the results:
-   
+    ```
   - Open git bush and run "git clone "https://github.com/Isaguiar/PI-Food-main.git";
   - Run "cd api"  and after that run folder run "npm start";
   - Open git bush again and run "cd client";
@@ -73,10 +72,10 @@ If you want to take a look at the results:
  ```
     
   ### _*Henry Kids*_
-    <br />
-  ```
+    
+
    Online computing lessons platform for young learners - in progress
- 
+   ```
    Currently applying: 
     
     Javascript, HTML, CSS, NODE, SQL
