@@ -1,14 +1,18 @@
 # Hi there, I'm Isabel Aguiar. 👋 
 
 
-### I've been a teacher for a long while and I'm taking the first steps in my career as a full stack web developer!!😉
+### After a deliberate shift from Education to IT, I started a journey as a full-stack developer, laying the foundation for my current role as a QA engineer.
  <br />
 
-- I've just launched my first academic projects.
-- I’m currently colaborating with my team mates at Henry on the creation of a platform to offer young learners online computing lessons. 😎
-- I’m open to oportunities to join new teams and keep on learning  by engaging in new projects.
-- Challenges involving logic make my heart beat faster. 💓 That's why I feel more comfortable working in the back or with libraries like React and React in the front.
-- ⚡ Plans for 2022: explore a little more data bases and the world of Machine Learning!
+- I'm very curious and I love to explore webpages and apps.
+- I'm very good at breaking things  (and finding bugs).
+- On the projects I colaborate, I adapt ISTQB principles to:
+  - plan testing processes,
+  - execute manual and automated tests (coding and codeless methods),
+  - report results.
+- Since I have started my job in Nicasource, I've worked in a variety of internal and external projects, including websites, webapplicattions, mobile apps.
+- I’m currently contributing to a non-profit organization, executing maual and automated tests on two of their internal apps. 
+- ⚡ Plans for 2024: keep learning, more and more, always!
 
 <br/>
 
