@@ -37,7 +37,6 @@ Yahoo:  aguiara73@yahoo.com.br
  <br />
  
 <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
-<img align="left" alt="Jira" width="100px" src="https://symbols.getvecta.com/stencil_85/32_jira.f5435acc23.svg" />
 <img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
