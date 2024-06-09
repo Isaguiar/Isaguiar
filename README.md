@@ -35,14 +35,17 @@ Yahoo:  aguiara73@yahoo.com.br
 
 ### Languages and Tools:
  <br />
-
+ 
+<img align="left" alt="Jira" width="100px" src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 40.343 42">
+<g data-name="Ð¡Ð»Ð¾Ð¹ 2"><path fill="#2684ff" d="M20.172,27.858,13.314,21l6.858-6.858V0L.586,19.586a2,2,0,0,0,0,2.828L20.172,42s3-2,3-7A11.639,11.639,0,0,0,20.172,27.858Z"></path><path fill="#1d78f2" d="M14.385,19.667l.131.131,5.656-5.656V0L9.571,10.6A20.2,20.2,0,0,0,14.385,19.667Z"></path><path fill="#126ae5" d="M15.832,18.285l.1.1,4.242-4.242V0L11.306,8.866A18.21,18.21,0,0,0,15.832,18.285Z"></path><path fill="#0b60da" d="M20.172,14.142V0l-7,7a15.546,15.546,0,0,0,4.171,9.97Z"></path><path fill="#0154ce" d="M15.172,7c0,4.746,3.407,8.371,3.585,8.556l1.415-1.414V0L15.35,4.822A13.161,13.161,0,0,0,15.172,7Z"></path><path fill="#2482fd" d="M20.172,14.142,27.029,21l-6.857,6.858V42L39.757,22.414a2,2,0,0,0,0-2.828L20.172,0s-3,2-3,7A11.639,11.639,0,0,0,20.172,14.142Z"></path><path fill="#1d78f2" d="M25.958,22.333l-.131-.131-5.655,5.656V42l10.6-10.6A20.2,20.2,0,0,0,25.958,22.333Z"></path><path fill="#126ae5" d="M24.511,23.715l-.1-.1-4.241,4.242V42l8.866-8.866A18.216,18.216,0,0,0,24.511,23.715Z"></path><path fill="#0b60da" d="M20.172,27.858V42l7-7A15.545,15.545,0,0,0,23,25.03Z"></path><path fill="#0154ce" d="M25.172,35c0-4.746-3.407-8.371-3.586-8.556l-1.414,1.414V42l4.822-4.822A13.27,13.27,0,0,0,25.172,35Z"></path><path fill="#2684ff" d="M20.172,27.858,13.314,21H2.172v3l18,18s3-2,3-7A11.639,11.639,0,0,0,20.172,27.858Z"></path></g>
+</svg>" />
 <img align="left" alt="Jira" width="100px" src="https://symbols.getvecta.com/stencil_85/32_jira.f5435acc23.svg" />
 <img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostGresql" width="40px" src="https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.646c2934ab.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="40px" src="C" />
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/ios/50/000000/redux.png"/>
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
