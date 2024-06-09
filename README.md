@@ -91,6 +91,8 @@ Yahoo:  aguiara73@yahoo.com.br
 
 ## 📕 Main Testing Automation Demo Projects 
 
+https://github.com/Isaguiar/assessment-e2e-testing.git
+
 
   
 
@@ -99,6 +101,8 @@ Yahoo:  aguiara73@yahoo.com.br
 ## 📕 Want to learn a bit more about my interests in Quality Assurance?
 
 https://www.youtube.com/live/RlwfdkhPmnM?si=3KgrTAWho3IWrbLU
+
+
 
 
 ## 📕 DEV Projects 
