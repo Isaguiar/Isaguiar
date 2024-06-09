@@ -6,12 +6,13 @@
 
 - I'm very curious and I love to explore webpages and apps.
 - I'm very good at breaking things  (and finding bugs).
-- On the projects I colaborate, I adapt ISTQB principles to:
+- I believe in the power of strategic documentation.
+- On the projects I collaborate, I adapt ISTQB principles to:
   - plan testing processes,
   - execute manual and automated tests (coding and codeless methods),
   - report results.
 - Since I have started my job in Nicasource, I've worked in a variety of internal and external projects, including websites, webapplicattions, mobile apps.
-- I’m currently contributing to a non-profit organization, executing maual and automated tests on two of their internal apps. 
+- I’m currently contributing to a non-profit organization, executing manual and automated tests on two of their internal apps. 
 - ⚡ Plans for 2024: keep learning, more and more, always!
 
 <br/>
@@ -54,7 +55,53 @@ Yahoo:  aguiara73@yahoo.com.br
 ---
 ---
 
-## 📕 Latest Projects 
+## 📕 Main Projects 
+- https://mymissioncontrol.org/ (Champions Submission/EZPMR webapp)
+    - manual functional testing
+ 
+ - EdThrive (webapplication)
+     - test planning
+     - manual visual and functional testing
+
+ - Applaud Bot (Slack Bot)
+     - manual fucntional testing
+  
+ - Applaud Bot Admin Site
+     - manual visual and functional testing
+  
+ - Nicasource Salesforce
+    - documentation (User Guide)
+  
+- https://www.stkildafestival.com.au/
+- https://www.stkildafilmfestival.com.au/
+- https://www.southmelbournemarket.com.au/
+  - manual visual and functional testing
+  - approval testing
+  - Ghost Inpesctor tests
+
+- https://www.transgrid.com.au/
+  - manual visual and functional testing
+  - approval testing
+  - Ghost Inpesctor tests
+ 
+- Threadable (social reading app)
+  - QA consultancy (test planning)
+  - collaboration in Webdriver IO/Appium automated tests
+ 
+
+## 📕 Main Testing Automation Demo Projects 
+
+
+  
+
+
+
+## 📕 Want to learn a bit more about my interests in Quality Assurance?
+
+https://www.youtube.com/live/RlwfdkhPmnM?si=3KgrTAWho3IWrbLU
+
+
+## 📕 DEV Projects 
 
 
 ### _*Sabor y nutrición*_
@@ -84,7 +131,7 @@ If you want to take a look at the results:
   ### _*Henry Kids*_
     
 
-   Online computing lessons platform for young learners - in progress
+   Online computing lessons platform for young learners
 
    Currently applying: 
   ```
