@@ -36,8 +36,8 @@ Yahoo:  aguiara73@yahoo.com.br
 ### Languages and Tools:
  <br />
  
-<img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence--v2"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence--v2"/>
 <img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
