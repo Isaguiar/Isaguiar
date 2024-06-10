@@ -39,12 +39,6 @@ Yahoo:  aguiara73@yahoo.com.br
 <img align="left" width="40" height="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
 <img align="left" width="40" height="40" src="https://img.icons8.com/color/48/confluence--v2.png" alt="confluence--v2"/>
 <img align="left" width="40" height="40" src="https://img.icons8.com/color/48/browser-stack.png" alt="browser-stack"/>
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48"
-style="fill:#12B886;">
-<path d="M18 18v10c0 .55-.45 1-1 1H7c-.55 0-1-.45-1-1V18c0-.55.45-1 1-1h10C17.55 17 18 17.45 18 18zM18 31v10c0 .55-.45 1-1 1H7c-.55 0-1-.45-1-1V31c0-.55.45-1 1-1h10C17.55 30 18 30.45 18 31zM18 5v10c0 .55-.45 1-1 1H7c-.55 0-1-.45-1-1V5c0-.55.45-1 1-1h10C17.55 4 18 4.45 18 5zM31 31v10c0 .55-.45 1-1 1H20c-.55 0-1-.45-1-1V31c0-.55.45-1 1-1h10C30.55 30 31 30.45 31 31zM31 18v10c0 .55-.45 1-1 1H20c-.55 0-1-.45-1-1V18c0-.55.45-1 1-1h10C30.55 17 31 17.45 31 18zM44 31v10c0 .55-.45 1-1 1H33c-.55 0-1-.45-1-1V31c0-.55.45-1 1-1h10c.55 0 1 .45 1 1z"></path>
-</svg>
-<img align="left" alt="Sequelize" width="40px" src="https://images.app.goo.gl/MBchezYUVyM7WznX8" />
-<img align="left" alt="Sequelize" width="40px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.750b7635d8.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostGresql" width="40px" src="https://symbols.getvecta.com/stencil_92/18_postgresql-vertical.646c2934ab.svg" />
