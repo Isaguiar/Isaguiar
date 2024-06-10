@@ -100,9 +100,7 @@ https://github.com/Isaguiar/assessment-e2e-testing.git
 ## 📕 Want to learn a bit more about my interests in Quality Assurance?
 
 https://www.youtube.com/live/RlwfdkhPmnM?si=3KgrTAWho3IWrbLU
-
-
-
+https://medium.com/nicasource/my-click-doesnt-work-solving-problems-related-to-the-click-method-using-weddriver-io-and-e9dbb0fbc586
 
 ## 📕 DEV Projects 
 
